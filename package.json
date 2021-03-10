@@ -1,0 +1,22 @@
+{
+  "name": "promise-api",
+  "version": "1.0.0",
+  "description": "single-file Promise API implementation of the Promise/A+ spec",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": "github:z1ne2wo/promise-api",
+  "keywords": [
+    "promise",
+    "promise/A+"
+  ],
+  "author": "z1ne2wo <z1ne2wo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "iterate-value": "^1.0.2"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
